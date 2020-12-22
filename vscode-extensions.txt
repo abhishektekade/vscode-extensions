@@ -36,3 +36,4 @@ wallabyjs.quokka-vscode
 msjsdiag.vscode-react-native
 gruntfuggly.todo-tree
 visualstudioexptteam.vscodeintellicode
+ms-vscode.powershell
